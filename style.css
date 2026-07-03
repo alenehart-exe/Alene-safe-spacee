@@ -1,6 +1,6 @@
 @font-face {
-    font-family: 'Lato';
-    src: url("lato/Lato-Thin.ttf")
+    font-family: 'lato';
+    src: url("Lato-Thin.ttf")
 }
 
 * {
@@ -22,7 +22,7 @@ body {
     background-color: #070203;
     margin: 0;
     color: #f9eeb4;
-    font-family: 'Lato', serif;
+    font-family: 'lato', serif;
 }
 
 .image-box {
